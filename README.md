@@ -11,20 +11,20 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Student Position: Desktop version<a name="about-project"></a>
+# 📖 Student Department: Desktop version<a name="about-project"></a>
 
-This webpage shows a sneak peek into the project I have developed and deployed, showcasing my skills in C programming. A Program displaying student positions depending on their averages.
+This is the answer to the Object Oriented Programming section of the HND 2021 case study
 
-**[Student Postion]** is a C project
+**[Student Department]** is a C++ project
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- C
+- C++
 
 ### Key Features <a name="key-features"></a>
-- **Asks User to enter studets' marks and calculates their averages and displays their positions in a tabular form**
+- **Displays student's departments**
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -34,16 +34,16 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- Visual Studio Code with the ability to run C programs OR
-- An IDE compatible with C programs
+- Visual Studio Code with the ability to run C++ programs OR
+- An IDE compatible with C++ programs
 
 ### Setup
 
 Clone this repository to your desired folder:
 
 ```sh
-  cd Student-Position
-  git clone https://github.com/Anjoh-Samuel-Jr/Student-Position.git
+  cd Stud-Dept
+  git clone https://github.com/Anjoh-Samuel-Jr/Stud-Dept.git
 ```
 
 ### Install
@@ -51,7 +51,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd Student-Position
+  cd Stud-Dept
   npm install
 ```
 
